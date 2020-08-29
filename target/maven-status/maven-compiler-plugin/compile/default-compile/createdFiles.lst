@@ -1,0 +1,3 @@
+bungee\vaccum\module\teamchat\TeamChat.class
+bungee\vaccum\module\teamchat\commands\TeamChatCommand.class
+bungee\vaccum\module\teamchat\listener\JoinListener.class

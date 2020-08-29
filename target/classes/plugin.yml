@@ -1,0 +1,11 @@
+name: module-teamchat
+version: 1.0.3-RELEASE
+main: bungee.vaccum.module.teamchat.TeamChat
+api-version: 1.15.2
+author: Vaccum.de
+authors: [VaccumDE, Prixix]
+depends:
+  - vBungeeAPI
+commands:
+  teamchat:
+  tc:
